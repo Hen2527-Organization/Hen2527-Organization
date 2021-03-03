@@ -17,21 +17,34 @@ As, We Develope Learning Coding Languages Competencies To Help People To Deploy
 
 ## You Must Read
 [ChangeLogs](/CHANGELOGS.md)
+
 [Announcement](/ANNOUNCEMENT.md)
+
 [REALEASE](/REALEASE.md)
 
 ## Links
  https://hen2527.tk/
+
  https://apihost.tk/
+
  https://hen2527.tk/discord 
+
  https://patreon.com/Hen2527
+
  https://patreon.com/APiHost
+
  https://fb.com/LawlessHen
+
  https://youtube.com/LawlessHen
+
  https://minco.kro.kr/
+
  https://minco.ml/
+
  https://mcvenom.cf/
+
  https://move-to.tk/
+
  https://discord.io/Hen2527
 
 ### Thank You For Supporting
