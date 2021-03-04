@@ -25,29 +25,29 @@ As, We Develope Learning Coding Languages Competencies To Help People To Deploy
 [REALEASE](/REALEASE.md)
 
 ## Links
- https://hen2527.tk/
+ [WEBSITE](https://hen2527.tk/)
 
- https://apihost.tk/
+ [API](https://apihost.tk/)
 
- https://hen2527.tk/discord 
+ [DISCORD](https://discord.io/Hen2527)
 
- https://patreon.com/Hen2527
+ [PATREON](https://patreon.com/Hen2527)
 
- https://patreon.com/APiHost
+ [PATREON API](https://patreon.com/APiHost)
 
- https://fb.com/LawlessHen
+ [FACEBOOK](https://fb.com/LawlessHen)
 
- https://youtube.com/LawlessHen
+ [YOUTUBE](https://youtube.com/LawlessHen)
 
- https://minco.kro.kr/
+ [MINCO](https://minco.kro.kr/)
 
- https://minco.ml/
+ [MINCO Ltd.](https://minco.ml/)
 
- https://mcvenom.cf/
+ [MCVENOM](https://mcvenom.cf/)
 
- https://move-to.tk/
+ [MOVE TO](https://move-to.tk/)
 
- https://discord.io/Hen2527
+ [OFFICIAL DISCORD SERVER](https://discord.io/Hen2527)
 
 ### Thank You For Supporting
 We appreciate your suppporting thank you so much! 
