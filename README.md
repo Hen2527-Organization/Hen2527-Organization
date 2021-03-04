@@ -1,6 +1,6 @@
 ## Hen2527 — Organization
 Welcome To Official Organization Of Hen2527
-
+![Discord](https://img.shields.io/discord/800561861472026646?color=%237289da&label=Discord&logo=Discord&logoColor=%2300ff00&style=plastic)
 ## Content Creators
 
 LawlessHen — Owner
